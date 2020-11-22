@@ -33,6 +33,8 @@ p {
   display: grid;
   grid-template-columns: auto auto;
   border-radius: 8px;
+  box-shadow: 5px 20px 20px 5px rgba(0, 0, 0, 0.04);
+
 }
 
 /* Drawer Image Section */
