@@ -82,6 +82,7 @@ p {
   border-radius: 100%;
   border: none;
   outline: none;
+  cursor:pointer;
 }
 
 .share-icon-button::after {
