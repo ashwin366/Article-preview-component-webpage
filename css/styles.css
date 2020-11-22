@@ -134,6 +134,10 @@ p {
   display: flex;
 }
 
+.icon:hover {
+  cursor: pointer;
+}
+
 /* MEDIA QUERIES */
 @media (max-width:850px) {
   .container {
